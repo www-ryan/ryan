@@ -1,2 +1,2 @@
 # ryan
-This is first time use
+my first reposity
